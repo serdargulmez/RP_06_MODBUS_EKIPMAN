@@ -99,12 +99,37 @@ namespace MODBUS_EKIPMAN_01
 
             int[] varHold01 = mClient.ReadHoldingRegisters(mtbihvar01, 1);
             int[] varHold02 = mClient.ReadHoldingRegisters(mtbihvar02, 1);
+            int[] varHold03 = mClient.ReadHoldingRegisters(mtbihvar03, 1);
+            int[] varHold04 = mClient.ReadHoldingRegisters(mtbihvar04, 1);
+            int[] varHold05 = mClient.ReadHoldingRegisters(mtbihvar05, 1);
+            int[] varHold06 = mClient.ReadHoldingRegisters(mtbihvar06, 1);
+            int[] varHold07 = mClient.ReadHoldingRegisters(mtbihvar07, 1);
+            int[] varHold08 = mClient.ReadHoldingRegisters(mtbihvar08, 1);
+            int[] varHold09 = mClient.ReadHoldingRegisters(mtbihvar09, 1);
+            int[] varHold10 = mClient.ReadHoldingRegisters(mtbihvar10, 1);
+            int[] varHold11 = mClient.ReadHoldingRegisters(mtbihvar11, 1);
+            int[] varHold12 = mClient.ReadHoldingRegisters(mtbihvar12, 1);
+            int[] varHold13 = mClient.ReadHoldingRegisters(mtbihvar13, 1);
 
             mtbihi_01.Text = Convert.ToString(varHold01[0]);
             mtbihi_02.Text = Convert.ToString(varHold02[0]);
+            mtbihi_03.Text = Convert.ToString(varHold03[0]);
+            mtbihi_04.Text = Convert.ToString(varHold04[0]);
+            mtbihi_05.Text = Convert.ToString(varHold05[0]);
+            mtbihi_06.Text = Convert.ToString(varHold06[0]);
+            mtbihi_07.Text = Convert.ToString(varHold07[0]);
+            mtbihi_08.Text = Convert.ToString(varHold08[0]);
+            mtbihi_09.Text = Convert.ToString(varHold09[0]);
+            mtbihi_10.Text = Convert.ToString(varHold10[0]);
+            mtbihi_11.Text = Convert.ToString(varHold11[0]);
+            mtbihi_12.Text = Convert.ToString(varHold12[0]);
+            mtbihi_13.Text = Convert.ToString(varHold13[0]);
 
 
-            
+
+
+
+
 
             timer1.Enabled = true;
 
@@ -361,43 +386,7 @@ namespace MODBUS_EKIPMAN_01
 
 
 
-        private void DO_tb01_KeyDown(object sender, KeyEventArgs e)
-        {
-            int s = e.KeyValue;
-            label3.Text = Convert.ToString(s);
-            string sd = Convert.ToString(s);
-            
-
-            //if (sd = "48")
-            //{
-            //    DO_tb01.Text = sd;
-
-            //    //mClient.WriteSingleRegister(0, e.KeyValue);
-
-            //}
-            //else
-            //{
-            //    MessageBox.Show("0 ile 32767 arasinda bir deger giriniz!");
-            //}
-
-
-
-            //string txt01 = DO_cb01.Text;
-            //bool val01 = false;
-            ////isNumber(txt01, val01);
-            //int var01;
-
-            //if (val01 == true)
-            //{
-            //    var01 = Convert.ToInt32(txt01);
-            //}
-            //else
-            //{
-            //    var01 = 0;
-            //}
-
-            //mClient.WriteSingleRegister(0, var01);
-        }
+        
 
         private void mtb_01_TextChanged(object sender, EventArgs e)
         {

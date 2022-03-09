@@ -39,30 +39,30 @@
             this.mtb_01 = new System.Windows.Forms.MaskedTextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.mtb_02 = new System.Windows.Forms.MaskedTextBox();
-            this.DO_cb02 = new System.Windows.Forms.CheckBox();
-            this.mtb_03 = new System.Windows.Forms.MaskedTextBox();
-            this.DO_cb03 = new System.Windows.Forms.CheckBox();
-            this.mtb_04 = new System.Windows.Forms.MaskedTextBox();
-            this.DO_cb04 = new System.Windows.Forms.CheckBox();
-            this.mtb_05 = new System.Windows.Forms.MaskedTextBox();
-            this.DO_cb05 = new System.Windows.Forms.CheckBox();
-            this.mtb_06 = new System.Windows.Forms.MaskedTextBox();
-            this.DO_cb06 = new System.Windows.Forms.CheckBox();
-            this.mtb_07 = new System.Windows.Forms.MaskedTextBox();
-            this.DO_cb07 = new System.Windows.Forms.CheckBox();
-            this.mtb_08 = new System.Windows.Forms.MaskedTextBox();
-            this.DO_cb08 = new System.Windows.Forms.CheckBox();
-            this.mtb_09 = new System.Windows.Forms.MaskedTextBox();
-            this.DO_cb09 = new System.Windows.Forms.CheckBox();
-            this.mtb_10 = new System.Windows.Forms.MaskedTextBox();
-            this.DO_cb10 = new System.Windows.Forms.CheckBox();
-            this.mtb_11 = new System.Windows.Forms.MaskedTextBox();
-            this.DO_cb11 = new System.Windows.Forms.CheckBox();
-            this.mtb_12 = new System.Windows.Forms.MaskedTextBox();
-            this.DO_cb12 = new System.Windows.Forms.CheckBox();
             this.mtb_13 = new System.Windows.Forms.MaskedTextBox();
             this.DO_cb13 = new System.Windows.Forms.CheckBox();
+            this.mtb_12 = new System.Windows.Forms.MaskedTextBox();
+            this.DO_cb12 = new System.Windows.Forms.CheckBox();
+            this.mtb_11 = new System.Windows.Forms.MaskedTextBox();
+            this.DO_cb11 = new System.Windows.Forms.CheckBox();
+            this.mtb_10 = new System.Windows.Forms.MaskedTextBox();
+            this.DO_cb10 = new System.Windows.Forms.CheckBox();
+            this.mtb_09 = new System.Windows.Forms.MaskedTextBox();
+            this.DO_cb09 = new System.Windows.Forms.CheckBox();
+            this.mtb_08 = new System.Windows.Forms.MaskedTextBox();
+            this.DO_cb08 = new System.Windows.Forms.CheckBox();
+            this.mtb_07 = new System.Windows.Forms.MaskedTextBox();
+            this.DO_cb07 = new System.Windows.Forms.CheckBox();
+            this.mtb_06 = new System.Windows.Forms.MaskedTextBox();
+            this.DO_cb06 = new System.Windows.Forms.CheckBox();
+            this.mtb_05 = new System.Windows.Forms.MaskedTextBox();
+            this.DO_cb05 = new System.Windows.Forms.CheckBox();
+            this.mtb_04 = new System.Windows.Forms.MaskedTextBox();
+            this.DO_cb04 = new System.Windows.Forms.CheckBox();
+            this.mtb_03 = new System.Windows.Forms.MaskedTextBox();
+            this.DO_cb03 = new System.Windows.Forms.CheckBox();
+            this.mtb_02 = new System.Windows.Forms.MaskedTextBox();
+            this.DO_cb02 = new System.Windows.Forms.CheckBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.mtbi_13 = new System.Windows.Forms.MaskedTextBox();
             this.DI_cb13 = new System.Windows.Forms.CheckBox();
@@ -91,6 +91,19 @@
             this.mtbi_01 = new System.Windows.Forms.MaskedTextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.mtboho_13 = new System.Windows.Forms.MaskedTextBox();
+            this.mtboho_12 = new System.Windows.Forms.MaskedTextBox();
+            this.mtboho_11 = new System.Windows.Forms.MaskedTextBox();
+            this.mtboho_10 = new System.Windows.Forms.MaskedTextBox();
+            this.mtboho_09 = new System.Windows.Forms.MaskedTextBox();
+            this.mtboho_08 = new System.Windows.Forms.MaskedTextBox();
+            this.mtboho_07 = new System.Windows.Forms.MaskedTextBox();
+            this.mtboho_06 = new System.Windows.Forms.MaskedTextBox();
+            this.mtboho_05 = new System.Windows.Forms.MaskedTextBox();
+            this.mtboho_04 = new System.Windows.Forms.MaskedTextBox();
+            this.mtboho_03 = new System.Windows.Forms.MaskedTextBox();
+            this.mtboho_02 = new System.Windows.Forms.MaskedTextBox();
+            this.mtboho_01 = new System.Windows.Forms.MaskedTextBox();
             this.mtboh_13 = new System.Windows.Forms.MaskedTextBox();
             this.mtboh_12 = new System.Windows.Forms.MaskedTextBox();
             this.mtboh_11 = new System.Windows.Forms.MaskedTextBox();
@@ -105,9 +118,18 @@
             this.mtboh_02 = new System.Windows.Forms.MaskedTextBox();
             this.mtboh_01 = new System.Windows.Forms.MaskedTextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.mtboho_01 = new System.Windows.Forms.MaskedTextBox();
-            this.mtboho_02 = new System.Windows.Forms.MaskedTextBox();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.mtbihi_13 = new System.Windows.Forms.MaskedTextBox();
+            this.mtbihi_12 = new System.Windows.Forms.MaskedTextBox();
+            this.mtbihi_11 = new System.Windows.Forms.MaskedTextBox();
+            this.mtbihi_10 = new System.Windows.Forms.MaskedTextBox();
+            this.mtbihi_09 = new System.Windows.Forms.MaskedTextBox();
+            this.mtbihi_08 = new System.Windows.Forms.MaskedTextBox();
+            this.mtbihi_07 = new System.Windows.Forms.MaskedTextBox();
+            this.mtbihi_06 = new System.Windows.Forms.MaskedTextBox();
+            this.mtbihi_05 = new System.Windows.Forms.MaskedTextBox();
+            this.mtbihi_04 = new System.Windows.Forms.MaskedTextBox();
+            this.mtbihi_03 = new System.Windows.Forms.MaskedTextBox();
             this.mtbihi_02 = new System.Windows.Forms.MaskedTextBox();
             this.mtbihi_01 = new System.Windows.Forms.MaskedTextBox();
             this.mtbih_13 = new System.Windows.Forms.MaskedTextBox();
@@ -124,28 +146,6 @@
             this.mtbih_02 = new System.Windows.Forms.MaskedTextBox();
             this.mtbih_01 = new System.Windows.Forms.MaskedTextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.mtboho_03 = new System.Windows.Forms.MaskedTextBox();
-            this.mtboho_04 = new System.Windows.Forms.MaskedTextBox();
-            this.mtboho_05 = new System.Windows.Forms.MaskedTextBox();
-            this.mtboho_06 = new System.Windows.Forms.MaskedTextBox();
-            this.mtboho_07 = new System.Windows.Forms.MaskedTextBox();
-            this.mtboho_08 = new System.Windows.Forms.MaskedTextBox();
-            this.mtboho_09 = new System.Windows.Forms.MaskedTextBox();
-            this.mtboho_10 = new System.Windows.Forms.MaskedTextBox();
-            this.mtboho_11 = new System.Windows.Forms.MaskedTextBox();
-            this.mtboho_12 = new System.Windows.Forms.MaskedTextBox();
-            this.mtboho_13 = new System.Windows.Forms.MaskedTextBox();
-            this.mtbihi_03 = new System.Windows.Forms.MaskedTextBox();
-            this.mtbihi_04 = new System.Windows.Forms.MaskedTextBox();
-            this.mtbihi_05 = new System.Windows.Forms.MaskedTextBox();
-            this.mtbihi_06 = new System.Windows.Forms.MaskedTextBox();
-            this.mtbihi_07 = new System.Windows.Forms.MaskedTextBox();
-            this.mtbihi_08 = new System.Windows.Forms.MaskedTextBox();
-            this.mtbihi_09 = new System.Windows.Forms.MaskedTextBox();
-            this.mtbihi_10 = new System.Windows.Forms.MaskedTextBox();
-            this.mtbihi_11 = new System.Windows.Forms.MaskedTextBox();
-            this.mtbihi_12 = new System.Windows.Forms.MaskedTextBox();
-            this.mtbihi_13 = new System.Windows.Forms.MaskedTextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
@@ -263,215 +263,26 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "COIL OUTPUTs";
             // 
-            // mtb_02
+            // mtb_13
             // 
-            this.mtb_02.Location = new System.Drawing.Point(23, 74);
-            this.mtb_02.Mask = "00000";
-            this.mtb_02.Name = "mtb_02";
-            this.mtb_02.Size = new System.Drawing.Size(31, 20);
-            this.mtb_02.TabIndex = 129;
-            this.mtb_02.ValidatingType = typeof(int);
-            this.mtb_02.TextChanged += new System.EventHandler(this.mtb_02_TextChanged);
+            this.mtb_13.Location = new System.Drawing.Point(23, 327);
+            this.mtb_13.Mask = "00000";
+            this.mtb_13.Name = "mtb_13";
+            this.mtb_13.Size = new System.Drawing.Size(31, 20);
+            this.mtb_13.TabIndex = 151;
+            this.mtb_13.ValidatingType = typeof(int);
+            this.mtb_13.TextChanged += new System.EventHandler(this.mtb_13_TextChanged);
             // 
-            // DO_cb02
+            // DO_cb13
             // 
-            this.DO_cb02.AutoSize = true;
-            this.DO_cb02.Location = new System.Drawing.Point(72, 77);
-            this.DO_cb02.Name = "DO_cb02";
-            this.DO_cb02.Size = new System.Drawing.Size(72, 17);
-            this.DO_cb02.TabIndex = 128;
-            this.DO_cb02.Text = "Sinyal_02";
-            this.DO_cb02.UseVisualStyleBackColor = true;
-            this.DO_cb02.CheckedChanged += new System.EventHandler(this.DO_cb02_CheckedChanged);
-            // 
-            // mtb_03
-            // 
-            this.mtb_03.Location = new System.Drawing.Point(23, 97);
-            this.mtb_03.Mask = "00000";
-            this.mtb_03.Name = "mtb_03";
-            this.mtb_03.Size = new System.Drawing.Size(31, 20);
-            this.mtb_03.TabIndex = 131;
-            this.mtb_03.ValidatingType = typeof(int);
-            this.mtb_03.TextChanged += new System.EventHandler(this.mtb_03_TextChanged);
-            // 
-            // DO_cb03
-            // 
-            this.DO_cb03.AutoSize = true;
-            this.DO_cb03.Location = new System.Drawing.Point(72, 100);
-            this.DO_cb03.Name = "DO_cb03";
-            this.DO_cb03.Size = new System.Drawing.Size(72, 17);
-            this.DO_cb03.TabIndex = 130;
-            this.DO_cb03.Text = "Sinyal_03";
-            this.DO_cb03.UseVisualStyleBackColor = true;
-            this.DO_cb03.CheckedChanged += new System.EventHandler(this.DO_cb03_CheckedChanged);
-            // 
-            // mtb_04
-            // 
-            this.mtb_04.Location = new System.Drawing.Point(23, 120);
-            this.mtb_04.Mask = "00000";
-            this.mtb_04.Name = "mtb_04";
-            this.mtb_04.Size = new System.Drawing.Size(31, 20);
-            this.mtb_04.TabIndex = 133;
-            this.mtb_04.ValidatingType = typeof(int);
-            this.mtb_04.TextChanged += new System.EventHandler(this.mtb_04_TextChanged);
-            // 
-            // DO_cb04
-            // 
-            this.DO_cb04.AutoSize = true;
-            this.DO_cb04.Location = new System.Drawing.Point(72, 123);
-            this.DO_cb04.Name = "DO_cb04";
-            this.DO_cb04.Size = new System.Drawing.Size(72, 17);
-            this.DO_cb04.TabIndex = 132;
-            this.DO_cb04.Text = "Sinyal_04";
-            this.DO_cb04.UseVisualStyleBackColor = true;
-            this.DO_cb04.CheckedChanged += new System.EventHandler(this.DO_cb04_CheckedChanged);
-            // 
-            // mtb_05
-            // 
-            this.mtb_05.Location = new System.Drawing.Point(23, 143);
-            this.mtb_05.Mask = "00000";
-            this.mtb_05.Name = "mtb_05";
-            this.mtb_05.Size = new System.Drawing.Size(31, 20);
-            this.mtb_05.TabIndex = 135;
-            this.mtb_05.ValidatingType = typeof(int);
-            this.mtb_05.TextChanged += new System.EventHandler(this.mtb_05_TextChanged);
-            // 
-            // DO_cb05
-            // 
-            this.DO_cb05.AutoSize = true;
-            this.DO_cb05.Location = new System.Drawing.Point(72, 146);
-            this.DO_cb05.Name = "DO_cb05";
-            this.DO_cb05.Size = new System.Drawing.Size(72, 17);
-            this.DO_cb05.TabIndex = 134;
-            this.DO_cb05.Text = "Sinyal_05";
-            this.DO_cb05.UseVisualStyleBackColor = true;
-            this.DO_cb05.CheckedChanged += new System.EventHandler(this.DO_cb05_CheckedChanged);
-            // 
-            // mtb_06
-            // 
-            this.mtb_06.Location = new System.Drawing.Point(23, 166);
-            this.mtb_06.Mask = "00000";
-            this.mtb_06.Name = "mtb_06";
-            this.mtb_06.Size = new System.Drawing.Size(31, 20);
-            this.mtb_06.TabIndex = 137;
-            this.mtb_06.ValidatingType = typeof(int);
-            this.mtb_06.TextChanged += new System.EventHandler(this.mtb_06_TextChanged);
-            // 
-            // DO_cb06
-            // 
-            this.DO_cb06.AutoSize = true;
-            this.DO_cb06.Location = new System.Drawing.Point(72, 169);
-            this.DO_cb06.Name = "DO_cb06";
-            this.DO_cb06.Size = new System.Drawing.Size(72, 17);
-            this.DO_cb06.TabIndex = 136;
-            this.DO_cb06.Text = "Sinyal_06";
-            this.DO_cb06.UseVisualStyleBackColor = true;
-            this.DO_cb06.CheckedChanged += new System.EventHandler(this.DO_cb06_CheckedChanged);
-            // 
-            // mtb_07
-            // 
-            this.mtb_07.Location = new System.Drawing.Point(23, 189);
-            this.mtb_07.Mask = "00000";
-            this.mtb_07.Name = "mtb_07";
-            this.mtb_07.Size = new System.Drawing.Size(31, 20);
-            this.mtb_07.TabIndex = 139;
-            this.mtb_07.ValidatingType = typeof(int);
-            this.mtb_07.TextChanged += new System.EventHandler(this.mtb_07_TextChanged);
-            // 
-            // DO_cb07
-            // 
-            this.DO_cb07.AutoSize = true;
-            this.DO_cb07.Location = new System.Drawing.Point(72, 192);
-            this.DO_cb07.Name = "DO_cb07";
-            this.DO_cb07.Size = new System.Drawing.Size(72, 17);
-            this.DO_cb07.TabIndex = 138;
-            this.DO_cb07.Text = "Sinyal_07";
-            this.DO_cb07.UseVisualStyleBackColor = true;
-            this.DO_cb07.CheckedChanged += new System.EventHandler(this.DO_cb07_CheckedChanged);
-            // 
-            // mtb_08
-            // 
-            this.mtb_08.Location = new System.Drawing.Point(23, 212);
-            this.mtb_08.Mask = "00000";
-            this.mtb_08.Name = "mtb_08";
-            this.mtb_08.Size = new System.Drawing.Size(31, 20);
-            this.mtb_08.TabIndex = 141;
-            this.mtb_08.ValidatingType = typeof(int);
-            this.mtb_08.TextChanged += new System.EventHandler(this.mtb_08_TextChanged);
-            // 
-            // DO_cb08
-            // 
-            this.DO_cb08.AutoSize = true;
-            this.DO_cb08.Location = new System.Drawing.Point(72, 215);
-            this.DO_cb08.Name = "DO_cb08";
-            this.DO_cb08.Size = new System.Drawing.Size(72, 17);
-            this.DO_cb08.TabIndex = 140;
-            this.DO_cb08.Text = "Sinyal_08";
-            this.DO_cb08.UseVisualStyleBackColor = true;
-            this.DO_cb08.CheckedChanged += new System.EventHandler(this.DO_cb08_CheckedChanged);
-            // 
-            // mtb_09
-            // 
-            this.mtb_09.Location = new System.Drawing.Point(23, 235);
-            this.mtb_09.Mask = "00000";
-            this.mtb_09.Name = "mtb_09";
-            this.mtb_09.Size = new System.Drawing.Size(31, 20);
-            this.mtb_09.TabIndex = 143;
-            this.mtb_09.ValidatingType = typeof(int);
-            this.mtb_09.TextChanged += new System.EventHandler(this.mtb_09_TextChanged);
-            // 
-            // DO_cb09
-            // 
-            this.DO_cb09.AutoSize = true;
-            this.DO_cb09.Location = new System.Drawing.Point(72, 238);
-            this.DO_cb09.Name = "DO_cb09";
-            this.DO_cb09.Size = new System.Drawing.Size(72, 17);
-            this.DO_cb09.TabIndex = 142;
-            this.DO_cb09.Text = "Sinyal_09";
-            this.DO_cb09.UseVisualStyleBackColor = true;
-            this.DO_cb09.CheckedChanged += new System.EventHandler(this.DO_cb09_CheckedChanged);
-            // 
-            // mtb_10
-            // 
-            this.mtb_10.Location = new System.Drawing.Point(23, 258);
-            this.mtb_10.Mask = "00000";
-            this.mtb_10.Name = "mtb_10";
-            this.mtb_10.Size = new System.Drawing.Size(31, 20);
-            this.mtb_10.TabIndex = 145;
-            this.mtb_10.ValidatingType = typeof(int);
-            this.mtb_10.TextChanged += new System.EventHandler(this.mtb_10_TextChanged);
-            // 
-            // DO_cb10
-            // 
-            this.DO_cb10.AutoSize = true;
-            this.DO_cb10.Location = new System.Drawing.Point(72, 261);
-            this.DO_cb10.Name = "DO_cb10";
-            this.DO_cb10.Size = new System.Drawing.Size(72, 17);
-            this.DO_cb10.TabIndex = 144;
-            this.DO_cb10.Text = "Sinyal_10";
-            this.DO_cb10.UseVisualStyleBackColor = true;
-            this.DO_cb10.CheckedChanged += new System.EventHandler(this.DO_cb10_CheckedChanged);
-            // 
-            // mtb_11
-            // 
-            this.mtb_11.Location = new System.Drawing.Point(23, 281);
-            this.mtb_11.Mask = "00000";
-            this.mtb_11.Name = "mtb_11";
-            this.mtb_11.Size = new System.Drawing.Size(31, 20);
-            this.mtb_11.TabIndex = 147;
-            this.mtb_11.ValidatingType = typeof(int);
-            this.mtb_11.TextChanged += new System.EventHandler(this.mtb_11_TextChanged);
-            // 
-            // DO_cb11
-            // 
-            this.DO_cb11.AutoSize = true;
-            this.DO_cb11.Location = new System.Drawing.Point(72, 284);
-            this.DO_cb11.Name = "DO_cb11";
-            this.DO_cb11.Size = new System.Drawing.Size(72, 17);
-            this.DO_cb11.TabIndex = 146;
-            this.DO_cb11.Text = "Sinyal_11";
-            this.DO_cb11.UseVisualStyleBackColor = true;
-            this.DO_cb11.CheckedChanged += new System.EventHandler(this.DO_cb11_CheckedChanged);
+            this.DO_cb13.AutoSize = true;
+            this.DO_cb13.Location = new System.Drawing.Point(72, 330);
+            this.DO_cb13.Name = "DO_cb13";
+            this.DO_cb13.Size = new System.Drawing.Size(72, 17);
+            this.DO_cb13.TabIndex = 150;
+            this.DO_cb13.Text = "Sinyal_13";
+            this.DO_cb13.UseVisualStyleBackColor = true;
+            this.DO_cb13.CheckedChanged += new System.EventHandler(this.DO_cb13_CheckedChanged);
             // 
             // mtb_12
             // 
@@ -494,26 +305,215 @@
             this.DO_cb12.UseVisualStyleBackColor = true;
             this.DO_cb12.CheckedChanged += new System.EventHandler(this.DO_cb12_CheckedChanged);
             // 
-            // mtb_13
+            // mtb_11
             // 
-            this.mtb_13.Location = new System.Drawing.Point(23, 327);
-            this.mtb_13.Mask = "00000";
-            this.mtb_13.Name = "mtb_13";
-            this.mtb_13.Size = new System.Drawing.Size(31, 20);
-            this.mtb_13.TabIndex = 151;
-            this.mtb_13.ValidatingType = typeof(int);
-            this.mtb_13.TextChanged += new System.EventHandler(this.mtb_13_TextChanged);
+            this.mtb_11.Location = new System.Drawing.Point(23, 281);
+            this.mtb_11.Mask = "00000";
+            this.mtb_11.Name = "mtb_11";
+            this.mtb_11.Size = new System.Drawing.Size(31, 20);
+            this.mtb_11.TabIndex = 147;
+            this.mtb_11.ValidatingType = typeof(int);
+            this.mtb_11.TextChanged += new System.EventHandler(this.mtb_11_TextChanged);
             // 
-            // DO_cb13
+            // DO_cb11
             // 
-            this.DO_cb13.AutoSize = true;
-            this.DO_cb13.Location = new System.Drawing.Point(72, 330);
-            this.DO_cb13.Name = "DO_cb13";
-            this.DO_cb13.Size = new System.Drawing.Size(72, 17);
-            this.DO_cb13.TabIndex = 150;
-            this.DO_cb13.Text = "Sinyal_13";
-            this.DO_cb13.UseVisualStyleBackColor = true;
-            this.DO_cb13.CheckedChanged += new System.EventHandler(this.DO_cb13_CheckedChanged);
+            this.DO_cb11.AutoSize = true;
+            this.DO_cb11.Location = new System.Drawing.Point(72, 284);
+            this.DO_cb11.Name = "DO_cb11";
+            this.DO_cb11.Size = new System.Drawing.Size(72, 17);
+            this.DO_cb11.TabIndex = 146;
+            this.DO_cb11.Text = "Sinyal_11";
+            this.DO_cb11.UseVisualStyleBackColor = true;
+            this.DO_cb11.CheckedChanged += new System.EventHandler(this.DO_cb11_CheckedChanged);
+            // 
+            // mtb_10
+            // 
+            this.mtb_10.Location = new System.Drawing.Point(23, 258);
+            this.mtb_10.Mask = "00000";
+            this.mtb_10.Name = "mtb_10";
+            this.mtb_10.Size = new System.Drawing.Size(31, 20);
+            this.mtb_10.TabIndex = 145;
+            this.mtb_10.ValidatingType = typeof(int);
+            this.mtb_10.TextChanged += new System.EventHandler(this.mtb_10_TextChanged);
+            // 
+            // DO_cb10
+            // 
+            this.DO_cb10.AutoSize = true;
+            this.DO_cb10.Location = new System.Drawing.Point(72, 261);
+            this.DO_cb10.Name = "DO_cb10";
+            this.DO_cb10.Size = new System.Drawing.Size(72, 17);
+            this.DO_cb10.TabIndex = 144;
+            this.DO_cb10.Text = "Sinyal_10";
+            this.DO_cb10.UseVisualStyleBackColor = true;
+            this.DO_cb10.CheckedChanged += new System.EventHandler(this.DO_cb10_CheckedChanged);
+            // 
+            // mtb_09
+            // 
+            this.mtb_09.Location = new System.Drawing.Point(23, 235);
+            this.mtb_09.Mask = "00000";
+            this.mtb_09.Name = "mtb_09";
+            this.mtb_09.Size = new System.Drawing.Size(31, 20);
+            this.mtb_09.TabIndex = 143;
+            this.mtb_09.ValidatingType = typeof(int);
+            this.mtb_09.TextChanged += new System.EventHandler(this.mtb_09_TextChanged);
+            // 
+            // DO_cb09
+            // 
+            this.DO_cb09.AutoSize = true;
+            this.DO_cb09.Location = new System.Drawing.Point(72, 238);
+            this.DO_cb09.Name = "DO_cb09";
+            this.DO_cb09.Size = new System.Drawing.Size(72, 17);
+            this.DO_cb09.TabIndex = 142;
+            this.DO_cb09.Text = "Sinyal_09";
+            this.DO_cb09.UseVisualStyleBackColor = true;
+            this.DO_cb09.CheckedChanged += new System.EventHandler(this.DO_cb09_CheckedChanged);
+            // 
+            // mtb_08
+            // 
+            this.mtb_08.Location = new System.Drawing.Point(23, 212);
+            this.mtb_08.Mask = "00000";
+            this.mtb_08.Name = "mtb_08";
+            this.mtb_08.Size = new System.Drawing.Size(31, 20);
+            this.mtb_08.TabIndex = 141;
+            this.mtb_08.ValidatingType = typeof(int);
+            this.mtb_08.TextChanged += new System.EventHandler(this.mtb_08_TextChanged);
+            // 
+            // DO_cb08
+            // 
+            this.DO_cb08.AutoSize = true;
+            this.DO_cb08.Location = new System.Drawing.Point(72, 215);
+            this.DO_cb08.Name = "DO_cb08";
+            this.DO_cb08.Size = new System.Drawing.Size(72, 17);
+            this.DO_cb08.TabIndex = 140;
+            this.DO_cb08.Text = "Sinyal_08";
+            this.DO_cb08.UseVisualStyleBackColor = true;
+            this.DO_cb08.CheckedChanged += new System.EventHandler(this.DO_cb08_CheckedChanged);
+            // 
+            // mtb_07
+            // 
+            this.mtb_07.Location = new System.Drawing.Point(23, 189);
+            this.mtb_07.Mask = "00000";
+            this.mtb_07.Name = "mtb_07";
+            this.mtb_07.Size = new System.Drawing.Size(31, 20);
+            this.mtb_07.TabIndex = 139;
+            this.mtb_07.ValidatingType = typeof(int);
+            this.mtb_07.TextChanged += new System.EventHandler(this.mtb_07_TextChanged);
+            // 
+            // DO_cb07
+            // 
+            this.DO_cb07.AutoSize = true;
+            this.DO_cb07.Location = new System.Drawing.Point(72, 192);
+            this.DO_cb07.Name = "DO_cb07";
+            this.DO_cb07.Size = new System.Drawing.Size(72, 17);
+            this.DO_cb07.TabIndex = 138;
+            this.DO_cb07.Text = "Sinyal_07";
+            this.DO_cb07.UseVisualStyleBackColor = true;
+            this.DO_cb07.CheckedChanged += new System.EventHandler(this.DO_cb07_CheckedChanged);
+            // 
+            // mtb_06
+            // 
+            this.mtb_06.Location = new System.Drawing.Point(23, 166);
+            this.mtb_06.Mask = "00000";
+            this.mtb_06.Name = "mtb_06";
+            this.mtb_06.Size = new System.Drawing.Size(31, 20);
+            this.mtb_06.TabIndex = 137;
+            this.mtb_06.ValidatingType = typeof(int);
+            this.mtb_06.TextChanged += new System.EventHandler(this.mtb_06_TextChanged);
+            // 
+            // DO_cb06
+            // 
+            this.DO_cb06.AutoSize = true;
+            this.DO_cb06.Location = new System.Drawing.Point(72, 169);
+            this.DO_cb06.Name = "DO_cb06";
+            this.DO_cb06.Size = new System.Drawing.Size(72, 17);
+            this.DO_cb06.TabIndex = 136;
+            this.DO_cb06.Text = "Sinyal_06";
+            this.DO_cb06.UseVisualStyleBackColor = true;
+            this.DO_cb06.CheckedChanged += new System.EventHandler(this.DO_cb06_CheckedChanged);
+            // 
+            // mtb_05
+            // 
+            this.mtb_05.Location = new System.Drawing.Point(23, 143);
+            this.mtb_05.Mask = "00000";
+            this.mtb_05.Name = "mtb_05";
+            this.mtb_05.Size = new System.Drawing.Size(31, 20);
+            this.mtb_05.TabIndex = 135;
+            this.mtb_05.ValidatingType = typeof(int);
+            this.mtb_05.TextChanged += new System.EventHandler(this.mtb_05_TextChanged);
+            // 
+            // DO_cb05
+            // 
+            this.DO_cb05.AutoSize = true;
+            this.DO_cb05.Location = new System.Drawing.Point(72, 146);
+            this.DO_cb05.Name = "DO_cb05";
+            this.DO_cb05.Size = new System.Drawing.Size(72, 17);
+            this.DO_cb05.TabIndex = 134;
+            this.DO_cb05.Text = "Sinyal_05";
+            this.DO_cb05.UseVisualStyleBackColor = true;
+            this.DO_cb05.CheckedChanged += new System.EventHandler(this.DO_cb05_CheckedChanged);
+            // 
+            // mtb_04
+            // 
+            this.mtb_04.Location = new System.Drawing.Point(23, 120);
+            this.mtb_04.Mask = "00000";
+            this.mtb_04.Name = "mtb_04";
+            this.mtb_04.Size = new System.Drawing.Size(31, 20);
+            this.mtb_04.TabIndex = 133;
+            this.mtb_04.ValidatingType = typeof(int);
+            this.mtb_04.TextChanged += new System.EventHandler(this.mtb_04_TextChanged);
+            // 
+            // DO_cb04
+            // 
+            this.DO_cb04.AutoSize = true;
+            this.DO_cb04.Location = new System.Drawing.Point(72, 123);
+            this.DO_cb04.Name = "DO_cb04";
+            this.DO_cb04.Size = new System.Drawing.Size(72, 17);
+            this.DO_cb04.TabIndex = 132;
+            this.DO_cb04.Text = "Sinyal_04";
+            this.DO_cb04.UseVisualStyleBackColor = true;
+            this.DO_cb04.CheckedChanged += new System.EventHandler(this.DO_cb04_CheckedChanged);
+            // 
+            // mtb_03
+            // 
+            this.mtb_03.Location = new System.Drawing.Point(23, 97);
+            this.mtb_03.Mask = "00000";
+            this.mtb_03.Name = "mtb_03";
+            this.mtb_03.Size = new System.Drawing.Size(31, 20);
+            this.mtb_03.TabIndex = 131;
+            this.mtb_03.ValidatingType = typeof(int);
+            this.mtb_03.TextChanged += new System.EventHandler(this.mtb_03_TextChanged);
+            // 
+            // DO_cb03
+            // 
+            this.DO_cb03.AutoSize = true;
+            this.DO_cb03.Location = new System.Drawing.Point(72, 100);
+            this.DO_cb03.Name = "DO_cb03";
+            this.DO_cb03.Size = new System.Drawing.Size(72, 17);
+            this.DO_cb03.TabIndex = 130;
+            this.DO_cb03.Text = "Sinyal_03";
+            this.DO_cb03.UseVisualStyleBackColor = true;
+            this.DO_cb03.CheckedChanged += new System.EventHandler(this.DO_cb03_CheckedChanged);
+            // 
+            // mtb_02
+            // 
+            this.mtb_02.Location = new System.Drawing.Point(23, 74);
+            this.mtb_02.Mask = "00000";
+            this.mtb_02.Name = "mtb_02";
+            this.mtb_02.Size = new System.Drawing.Size(31, 20);
+            this.mtb_02.TabIndex = 129;
+            this.mtb_02.ValidatingType = typeof(int);
+            this.mtb_02.TextChanged += new System.EventHandler(this.mtb_02_TextChanged);
+            // 
+            // DO_cb02
+            // 
+            this.DO_cb02.AutoSize = true;
+            this.DO_cb02.Location = new System.Drawing.Point(72, 77);
+            this.DO_cb02.Name = "DO_cb02";
+            this.DO_cb02.Size = new System.Drawing.Size(72, 17);
+            this.DO_cb02.TabIndex = 128;
+            this.DO_cb02.Text = "Sinyal_02";
+            this.DO_cb02.UseVisualStyleBackColor = true;
+            this.DO_cb02.CheckedChanged += new System.EventHandler(this.DO_cb02_CheckedChanged);
             // 
             // groupBox2
             // 
@@ -847,6 +847,136 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "HOLDING OUTPUTs";
             // 
+            // mtboho_13
+            // 
+            this.mtboho_13.Location = new System.Drawing.Point(81, 327);
+            this.mtboho_13.Mask = "00000";
+            this.mtboho_13.Name = "mtboho_13";
+            this.mtboho_13.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_13.TabIndex = 164;
+            this.mtboho_13.ValidatingType = typeof(int);
+            this.mtboho_13.TextChanged += new System.EventHandler(this.mtboho_13_TextChanged);
+            // 
+            // mtboho_12
+            // 
+            this.mtboho_12.Location = new System.Drawing.Point(81, 304);
+            this.mtboho_12.Mask = "00000";
+            this.mtboho_12.Name = "mtboho_12";
+            this.mtboho_12.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_12.TabIndex = 163;
+            this.mtboho_12.ValidatingType = typeof(int);
+            this.mtboho_12.TextChanged += new System.EventHandler(this.mtboho_12_TextChanged);
+            // 
+            // mtboho_11
+            // 
+            this.mtboho_11.Location = new System.Drawing.Point(81, 281);
+            this.mtboho_11.Mask = "00000";
+            this.mtboho_11.Name = "mtboho_11";
+            this.mtboho_11.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_11.TabIndex = 162;
+            this.mtboho_11.ValidatingType = typeof(int);
+            this.mtboho_11.TextChanged += new System.EventHandler(this.mtboho_11_TextChanged);
+            // 
+            // mtboho_10
+            // 
+            this.mtboho_10.Location = new System.Drawing.Point(81, 258);
+            this.mtboho_10.Mask = "00000";
+            this.mtboho_10.Name = "mtboho_10";
+            this.mtboho_10.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_10.TabIndex = 161;
+            this.mtboho_10.ValidatingType = typeof(int);
+            this.mtboho_10.TextChanged += new System.EventHandler(this.mtboho_10_TextChanged);
+            // 
+            // mtboho_09
+            // 
+            this.mtboho_09.Location = new System.Drawing.Point(81, 235);
+            this.mtboho_09.Mask = "00000";
+            this.mtboho_09.Name = "mtboho_09";
+            this.mtboho_09.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_09.TabIndex = 160;
+            this.mtboho_09.ValidatingType = typeof(int);
+            this.mtboho_09.TextChanged += new System.EventHandler(this.mtboho_09_TextChanged);
+            // 
+            // mtboho_08
+            // 
+            this.mtboho_08.Location = new System.Drawing.Point(81, 212);
+            this.mtboho_08.Mask = "00000";
+            this.mtboho_08.Name = "mtboho_08";
+            this.mtboho_08.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_08.TabIndex = 159;
+            this.mtboho_08.ValidatingType = typeof(int);
+            this.mtboho_08.TextChanged += new System.EventHandler(this.mtboho_08_TextChanged);
+            // 
+            // mtboho_07
+            // 
+            this.mtboho_07.Location = new System.Drawing.Point(81, 189);
+            this.mtboho_07.Mask = "00000";
+            this.mtboho_07.Name = "mtboho_07";
+            this.mtboho_07.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_07.TabIndex = 158;
+            this.mtboho_07.ValidatingType = typeof(int);
+            this.mtboho_07.TextChanged += new System.EventHandler(this.mtboho_07_TextChanged);
+            // 
+            // mtboho_06
+            // 
+            this.mtboho_06.Location = new System.Drawing.Point(81, 166);
+            this.mtboho_06.Mask = "00000";
+            this.mtboho_06.Name = "mtboho_06";
+            this.mtboho_06.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_06.TabIndex = 157;
+            this.mtboho_06.ValidatingType = typeof(int);
+            this.mtboho_06.TextChanged += new System.EventHandler(this.mtboho_06_TextChanged);
+            // 
+            // mtboho_05
+            // 
+            this.mtboho_05.Location = new System.Drawing.Point(81, 143);
+            this.mtboho_05.Mask = "00000";
+            this.mtboho_05.Name = "mtboho_05";
+            this.mtboho_05.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_05.TabIndex = 156;
+            this.mtboho_05.ValidatingType = typeof(int);
+            this.mtboho_05.TextChanged += new System.EventHandler(this.mtboho_05_TextChanged);
+            // 
+            // mtboho_04
+            // 
+            this.mtboho_04.Location = new System.Drawing.Point(81, 120);
+            this.mtboho_04.Mask = "00000";
+            this.mtboho_04.Name = "mtboho_04";
+            this.mtboho_04.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_04.TabIndex = 155;
+            this.mtboho_04.ValidatingType = typeof(int);
+            this.mtboho_04.TextChanged += new System.EventHandler(this.mtboho_04_TextChanged);
+            // 
+            // mtboho_03
+            // 
+            this.mtboho_03.Location = new System.Drawing.Point(81, 97);
+            this.mtboho_03.Mask = "00000";
+            this.mtboho_03.Name = "mtboho_03";
+            this.mtboho_03.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_03.TabIndex = 154;
+            this.mtboho_03.ValidatingType = typeof(int);
+            this.mtboho_03.TextChanged += new System.EventHandler(this.mtboho_03_TextChanged);
+            // 
+            // mtboho_02
+            // 
+            this.mtboho_02.Location = new System.Drawing.Point(81, 74);
+            this.mtboho_02.Mask = "00000";
+            this.mtboho_02.Name = "mtboho_02";
+            this.mtboho_02.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_02.TabIndex = 153;
+            this.mtboho_02.ValidatingType = typeof(int);
+            this.mtboho_02.TextChanged += new System.EventHandler(this.mtboho_02_TextChanged);
+            // 
+            // mtboho_01
+            // 
+            this.mtboho_01.Location = new System.Drawing.Point(81, 51);
+            this.mtboho_01.Mask = "00000";
+            this.mtboho_01.Name = "mtboho_01";
+            this.mtboho_01.Size = new System.Drawing.Size(81, 20);
+            this.mtboho_01.TabIndex = 152;
+            this.mtboho_01.ValidatingType = typeof(int);
+            this.mtboho_01.TextChanged += new System.EventHandler(this.mtboho_01_TextChanged);
+            // 
             // mtboh_13
             // 
             this.mtboh_13.Location = new System.Drawing.Point(23, 327);
@@ -986,26 +1116,6 @@
             this.label2.TabIndex = 127;
             this.label2.Text = "Registers";
             // 
-            // mtboho_01
-            // 
-            this.mtboho_01.Location = new System.Drawing.Point(81, 51);
-            this.mtboho_01.Mask = "00000";
-            this.mtboho_01.Name = "mtboho_01";
-            this.mtboho_01.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_01.TabIndex = 152;
-            this.mtboho_01.ValidatingType = typeof(int);
-            this.mtboho_01.TextChanged += new System.EventHandler(this.mtboho_01_TextChanged);
-            // 
-            // mtboho_02
-            // 
-            this.mtboho_02.Location = new System.Drawing.Point(81, 74);
-            this.mtboho_02.Mask = "00000";
-            this.mtboho_02.Name = "mtboho_02";
-            this.mtboho_02.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_02.TabIndex = 153;
-            this.mtboho_02.ValidatingType = typeof(int);
-            this.mtboho_02.TextChanged += new System.EventHandler(this.mtboho_02_TextChanged);
-            // 
             // groupBox4
             // 
             this.groupBox4.Controls.Add(this.mtbihi_13);
@@ -1041,6 +1151,116 @@
             this.groupBox4.TabIndex = 154;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "HOLDING INPUTs";
+            // 
+            // mtbihi_13
+            // 
+            this.mtbihi_13.Location = new System.Drawing.Point(81, 327);
+            this.mtbihi_13.Mask = "00000";
+            this.mtbihi_13.Name = "mtbihi_13";
+            this.mtbihi_13.Size = new System.Drawing.Size(81, 20);
+            this.mtbihi_13.TabIndex = 164;
+            this.mtbihi_13.ValidatingType = typeof(int);
+            this.mtbihi_13.TextChanged += new System.EventHandler(this.mtbih_13_TextChanged);
+            // 
+            // mtbihi_12
+            // 
+            this.mtbihi_12.Location = new System.Drawing.Point(81, 304);
+            this.mtbihi_12.Mask = "00000";
+            this.mtbihi_12.Name = "mtbihi_12";
+            this.mtbihi_12.Size = new System.Drawing.Size(81, 20);
+            this.mtbihi_12.TabIndex = 163;
+            this.mtbihi_12.ValidatingType = typeof(int);
+            this.mtbihi_12.TextChanged += new System.EventHandler(this.mtbih_12_TextChanged);
+            // 
+            // mtbihi_11
+            // 
+            this.mtbihi_11.Location = new System.Drawing.Point(81, 281);
+            this.mtbihi_11.Mask = "00000";
+            this.mtbihi_11.Name = "mtbihi_11";
+            this.mtbihi_11.Size = new System.Drawing.Size(81, 20);
+            this.mtbihi_11.TabIndex = 162;
+            this.mtbihi_11.ValidatingType = typeof(int);
+            this.mtbihi_11.TextChanged += new System.EventHandler(this.mtbih_11_TextChanged);
+            // 
+            // mtbihi_10
+            // 
+            this.mtbihi_10.Location = new System.Drawing.Point(81, 258);
+            this.mtbihi_10.Mask = "00000";
+            this.mtbihi_10.Name = "mtbihi_10";
+            this.mtbihi_10.Size = new System.Drawing.Size(81, 20);
+            this.mtbihi_10.TabIndex = 161;
+            this.mtbihi_10.ValidatingType = typeof(int);
+            this.mtbihi_10.TextChanged += new System.EventHandler(this.mtbih_10_TextChanged);
+            // 
+            // mtbihi_09
+            // 
+            this.mtbihi_09.Location = new System.Drawing.Point(81, 235);
+            this.mtbihi_09.Mask = "00000";
+            this.mtbihi_09.Name = "mtbihi_09";
+            this.mtbihi_09.Size = new System.Drawing.Size(81, 20);
+            this.mtbihi_09.TabIndex = 160;
+            this.mtbihi_09.ValidatingType = typeof(int);
+            this.mtbihi_09.TextChanged += new System.EventHandler(this.mtbih_09_TextChanged);
+            // 
+            // mtbihi_08
+            // 
+            this.mtbihi_08.Location = new System.Drawing.Point(81, 212);
+            this.mtbihi_08.Mask = "00000";
+            this.mtbihi_08.Name = "mtbihi_08";
+            this.mtbihi_08.Size = new System.Drawing.Size(81, 20);
+            this.mtbihi_08.TabIndex = 159;
+            this.mtbihi_08.ValidatingType = typeof(int);
+            this.mtbihi_08.TextChanged += new System.EventHandler(this.mtbih_08_TextChanged);
+            // 
+            // mtbihi_07
+            // 
+            this.mtbihi_07.Location = new System.Drawing.Point(81, 189);
+            this.mtbihi_07.Mask = "00000";
+            this.mtbihi_07.Name = "mtbihi_07";
+            this.mtbihi_07.Size = new System.Drawing.Size(81, 20);
+            this.mtbihi_07.TabIndex = 158;
+            this.mtbihi_07.ValidatingType = typeof(int);
+            this.mtbihi_07.TextChanged += new System.EventHandler(this.mtbih_07_TextChanged);
+            // 
+            // mtbihi_06
+            // 
+            this.mtbihi_06.Location = new System.Drawing.Point(81, 166);
+            this.mtbihi_06.Mask = "00000";
+            this.mtbihi_06.Name = "mtbihi_06";
+            this.mtbihi_06.Size = new System.Drawing.Size(81, 20);
+            this.mtbihi_06.TabIndex = 157;
+            this.mtbihi_06.ValidatingType = typeof(int);
+            this.mtbihi_06.TextChanged += new System.EventHandler(this.mtbih_06_TextChanged);
+            // 
+            // mtbihi_05
+            // 
+            this.mtbihi_05.Location = new System.Drawing.Point(81, 143);
+            this.mtbihi_05.Mask = "00000";
+            this.mtbihi_05.Name = "mtbihi_05";
+            this.mtbihi_05.Size = new System.Drawing.Size(81, 20);
+            this.mtbihi_05.TabIndex = 156;
+            this.mtbihi_05.ValidatingType = typeof(int);
+            this.mtbihi_05.TextChanged += new System.EventHandler(this.mtbih_05_TextChanged);
+            // 
+            // mtbihi_04
+            // 
+            this.mtbihi_04.Location = new System.Drawing.Point(81, 120);
+            this.mtbihi_04.Mask = "00000";
+            this.mtbihi_04.Name = "mtbihi_04";
+            this.mtbihi_04.Size = new System.Drawing.Size(81, 20);
+            this.mtbihi_04.TabIndex = 155;
+            this.mtbihi_04.ValidatingType = typeof(int);
+            this.mtbihi_04.TextChanged += new System.EventHandler(this.mtbih_04_TextChanged);
+            // 
+            // mtbihi_03
+            // 
+            this.mtbihi_03.Location = new System.Drawing.Point(81, 97);
+            this.mtbihi_03.Mask = "00000";
+            this.mtbihi_03.Name = "mtbihi_03";
+            this.mtbihi_03.Size = new System.Drawing.Size(81, 20);
+            this.mtbihi_03.TabIndex = 154;
+            this.mtbihi_03.ValidatingType = typeof(int);
+            this.mtbihi_03.TextChanged += new System.EventHandler(this.mtbih_03_TextChanged);
             // 
             // mtbihi_02
             // 
@@ -1201,226 +1421,6 @@
             this.label3.TabIndex = 127;
             this.label3.Text = "Registers";
             // 
-            // mtboho_03
-            // 
-            this.mtboho_03.Location = new System.Drawing.Point(81, 97);
-            this.mtboho_03.Mask = "00000";
-            this.mtboho_03.Name = "mtboho_03";
-            this.mtboho_03.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_03.TabIndex = 154;
-            this.mtboho_03.ValidatingType = typeof(int);
-            this.mtboho_03.TextChanged += new System.EventHandler(this.mtboho_03_TextChanged);
-            // 
-            // mtboho_04
-            // 
-            this.mtboho_04.Location = new System.Drawing.Point(81, 120);
-            this.mtboho_04.Mask = "00000";
-            this.mtboho_04.Name = "mtboho_04";
-            this.mtboho_04.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_04.TabIndex = 155;
-            this.mtboho_04.ValidatingType = typeof(int);
-            this.mtboho_04.TextChanged += new System.EventHandler(this.mtboho_04_TextChanged);
-            // 
-            // mtboho_05
-            // 
-            this.mtboho_05.Location = new System.Drawing.Point(81, 143);
-            this.mtboho_05.Mask = "00000";
-            this.mtboho_05.Name = "mtboho_05";
-            this.mtboho_05.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_05.TabIndex = 156;
-            this.mtboho_05.ValidatingType = typeof(int);
-            this.mtboho_05.TextChanged += new System.EventHandler(this.mtboho_05_TextChanged);
-            // 
-            // mtboho_06
-            // 
-            this.mtboho_06.Location = new System.Drawing.Point(81, 166);
-            this.mtboho_06.Mask = "00000";
-            this.mtboho_06.Name = "mtboho_06";
-            this.mtboho_06.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_06.TabIndex = 157;
-            this.mtboho_06.ValidatingType = typeof(int);
-            this.mtboho_06.TextChanged += new System.EventHandler(this.mtboho_06_TextChanged);
-            // 
-            // mtboho_07
-            // 
-            this.mtboho_07.Location = new System.Drawing.Point(81, 189);
-            this.mtboho_07.Mask = "00000";
-            this.mtboho_07.Name = "mtboho_07";
-            this.mtboho_07.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_07.TabIndex = 158;
-            this.mtboho_07.ValidatingType = typeof(int);
-            this.mtboho_07.TextChanged += new System.EventHandler(this.mtboho_07_TextChanged);
-            // 
-            // mtboho_08
-            // 
-            this.mtboho_08.Location = new System.Drawing.Point(81, 212);
-            this.mtboho_08.Mask = "00000";
-            this.mtboho_08.Name = "mtboho_08";
-            this.mtboho_08.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_08.TabIndex = 159;
-            this.mtboho_08.ValidatingType = typeof(int);
-            this.mtboho_08.TextChanged += new System.EventHandler(this.mtboho_08_TextChanged);
-            // 
-            // mtboho_09
-            // 
-            this.mtboho_09.Location = new System.Drawing.Point(81, 235);
-            this.mtboho_09.Mask = "00000";
-            this.mtboho_09.Name = "mtboho_09";
-            this.mtboho_09.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_09.TabIndex = 160;
-            this.mtboho_09.ValidatingType = typeof(int);
-            this.mtboho_09.TextChanged += new System.EventHandler(this.mtboho_09_TextChanged);
-            // 
-            // mtboho_10
-            // 
-            this.mtboho_10.Location = new System.Drawing.Point(81, 258);
-            this.mtboho_10.Mask = "00000";
-            this.mtboho_10.Name = "mtboho_10";
-            this.mtboho_10.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_10.TabIndex = 161;
-            this.mtboho_10.ValidatingType = typeof(int);
-            this.mtboho_10.TextChanged += new System.EventHandler(this.mtboho_10_TextChanged);
-            // 
-            // mtboho_11
-            // 
-            this.mtboho_11.Location = new System.Drawing.Point(81, 281);
-            this.mtboho_11.Mask = "00000";
-            this.mtboho_11.Name = "mtboho_11";
-            this.mtboho_11.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_11.TabIndex = 162;
-            this.mtboho_11.ValidatingType = typeof(int);
-            this.mtboho_11.TextChanged += new System.EventHandler(this.mtboho_11_TextChanged);
-            // 
-            // mtboho_12
-            // 
-            this.mtboho_12.Location = new System.Drawing.Point(81, 304);
-            this.mtboho_12.Mask = "00000";
-            this.mtboho_12.Name = "mtboho_12";
-            this.mtboho_12.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_12.TabIndex = 163;
-            this.mtboho_12.ValidatingType = typeof(int);
-            this.mtboho_12.TextChanged += new System.EventHandler(this.mtboho_12_TextChanged);
-            // 
-            // mtboho_13
-            // 
-            this.mtboho_13.Location = new System.Drawing.Point(81, 327);
-            this.mtboho_13.Mask = "00000";
-            this.mtboho_13.Name = "mtboho_13";
-            this.mtboho_13.Size = new System.Drawing.Size(81, 20);
-            this.mtboho_13.TabIndex = 164;
-            this.mtboho_13.ValidatingType = typeof(int);
-            this.mtboho_13.TextChanged += new System.EventHandler(this.mtboho_13_TextChanged);
-            // 
-            // mtbihi_03
-            // 
-            this.mtbihi_03.Location = new System.Drawing.Point(81, 97);
-            this.mtbihi_03.Mask = "00000";
-            this.mtbihi_03.Name = "mtbihi_03";
-            this.mtbihi_03.Size = new System.Drawing.Size(81, 20);
-            this.mtbihi_03.TabIndex = 154;
-            this.mtbihi_03.ValidatingType = typeof(int);
-            this.mtbihi_03.TextChanged += new System.EventHandler(this.mtbih_03_TextChanged);
-            // 
-            // mtbihi_04
-            // 
-            this.mtbihi_04.Location = new System.Drawing.Point(81, 120);
-            this.mtbihi_04.Mask = "00000";
-            this.mtbihi_04.Name = "mtbihi_04";
-            this.mtbihi_04.Size = new System.Drawing.Size(81, 20);
-            this.mtbihi_04.TabIndex = 155;
-            this.mtbihi_04.ValidatingType = typeof(int);
-            this.mtbihi_04.TextChanged += new System.EventHandler(this.mtbih_04_TextChanged);
-            // 
-            // mtbihi_05
-            // 
-            this.mtbihi_05.Location = new System.Drawing.Point(81, 143);
-            this.mtbihi_05.Mask = "00000";
-            this.mtbihi_05.Name = "mtbihi_05";
-            this.mtbihi_05.Size = new System.Drawing.Size(81, 20);
-            this.mtbihi_05.TabIndex = 156;
-            this.mtbihi_05.ValidatingType = typeof(int);
-            this.mtbihi_05.TextChanged += new System.EventHandler(this.mtbih_05_TextChanged);
-            // 
-            // mtbihi_06
-            // 
-            this.mtbihi_06.Location = new System.Drawing.Point(81, 166);
-            this.mtbihi_06.Mask = "00000";
-            this.mtbihi_06.Name = "mtbihi_06";
-            this.mtbihi_06.Size = new System.Drawing.Size(81, 20);
-            this.mtbihi_06.TabIndex = 157;
-            this.mtbihi_06.ValidatingType = typeof(int);
-            this.mtbihi_06.TextChanged += new System.EventHandler(this.mtbih_06_TextChanged);
-            // 
-            // mtbihi_07
-            // 
-            this.mtbihi_07.Location = new System.Drawing.Point(81, 189);
-            this.mtbihi_07.Mask = "00000";
-            this.mtbihi_07.Name = "mtbihi_07";
-            this.mtbihi_07.Size = new System.Drawing.Size(81, 20);
-            this.mtbihi_07.TabIndex = 158;
-            this.mtbihi_07.ValidatingType = typeof(int);
-            this.mtbihi_07.TextChanged += new System.EventHandler(this.mtbih_07_TextChanged);
-            // 
-            // mtbihi_08
-            // 
-            this.mtbihi_08.Location = new System.Drawing.Point(81, 212);
-            this.mtbihi_08.Mask = "00000";
-            this.mtbihi_08.Name = "mtbihi_08";
-            this.mtbihi_08.Size = new System.Drawing.Size(81, 20);
-            this.mtbihi_08.TabIndex = 159;
-            this.mtbihi_08.ValidatingType = typeof(int);
-            this.mtbihi_08.TextChanged += new System.EventHandler(this.mtbih_08_TextChanged);
-            // 
-            // mtbihi_09
-            // 
-            this.mtbihi_09.Location = new System.Drawing.Point(81, 235);
-            this.mtbihi_09.Mask = "00000";
-            this.mtbihi_09.Name = "mtbihi_09";
-            this.mtbihi_09.Size = new System.Drawing.Size(81, 20);
-            this.mtbihi_09.TabIndex = 160;
-            this.mtbihi_09.ValidatingType = typeof(int);
-            this.mtbihi_09.TextChanged += new System.EventHandler(this.mtbih_09_TextChanged);
-            // 
-            // mtbihi_10
-            // 
-            this.mtbihi_10.Location = new System.Drawing.Point(81, 258);
-            this.mtbihi_10.Mask = "00000";
-            this.mtbihi_10.Name = "mtbihi_10";
-            this.mtbihi_10.Size = new System.Drawing.Size(81, 20);
-            this.mtbihi_10.TabIndex = 161;
-            this.mtbihi_10.ValidatingType = typeof(int);
-            this.mtbihi_10.TextChanged += new System.EventHandler(this.mtbih_10_TextChanged);
-            // 
-            // mtbihi_11
-            // 
-            this.mtbihi_11.Location = new System.Drawing.Point(81, 281);
-            this.mtbihi_11.Mask = "00000";
-            this.mtbihi_11.Name = "mtbihi_11";
-            this.mtbihi_11.Size = new System.Drawing.Size(81, 20);
-            this.mtbihi_11.TabIndex = 162;
-            this.mtbihi_11.ValidatingType = typeof(int);
-            this.mtbihi_11.TextChanged += new System.EventHandler(this.mtbih_11_TextChanged);
-            // 
-            // mtbihi_12
-            // 
-            this.mtbihi_12.Location = new System.Drawing.Point(81, 304);
-            this.mtbihi_12.Mask = "00000";
-            this.mtbihi_12.Name = "mtbihi_12";
-            this.mtbihi_12.Size = new System.Drawing.Size(81, 20);
-            this.mtbihi_12.TabIndex = 163;
-            this.mtbihi_12.ValidatingType = typeof(int);
-            this.mtbihi_12.TextChanged += new System.EventHandler(this.mtbih_12_TextChanged);
-            // 
-            // mtbihi_13
-            // 
-            this.mtbihi_13.Location = new System.Drawing.Point(81, 327);
-            this.mtbihi_13.Mask = "00000";
-            this.mtbihi_13.Name = "mtbihi_13";
-            this.mtbihi_13.Size = new System.Drawing.Size(81, 20);
-            this.mtbihi_13.TabIndex = 164;
-            this.mtbihi_13.ValidatingType = typeof(int);
-            this.mtbihi_13.TextChanged += new System.EventHandler(this.mtbih_13_TextChanged);
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -1429,9 +1429,9 @@
             this.label5.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label5.Location = new System.Drawing.Point(665, 481);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(148, 16);
+            this.label5.Size = new System.Drawing.Size(142, 16);
             this.label5.TabIndex = 155;
-            this.label5.Text = "Copypaste © 2022 by SEGU ";
+            this.label5.Text = "Copyright © 2022 by SEGU ";
             // 
             // button1
             // 
