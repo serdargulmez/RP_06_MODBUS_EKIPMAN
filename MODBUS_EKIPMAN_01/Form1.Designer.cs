@@ -161,9 +161,9 @@
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.Location = new System.Drawing.Point(350, 11);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(106, 25);
+            this.label9.Size = new System.Drawing.Size(136, 25);
             this.label9.TabIndex = 107;
-            this.label9.Text = "EKIPMAN";
+            this.label9.Text = "EQUIPMENT";
             // 
             // timer1
             // 
@@ -1435,9 +1435,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(374, 461);
+            this.button1.Location = new System.Drawing.Point(355, 450);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(94, 34);
             this.button1.TabIndex = 156;
             this.button1.Text = "CLOSE";
             this.button1.UseVisualStyleBackColor = true;
@@ -1445,9 +1445,9 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(6, 471);
+            this.button2.Location = new System.Drawing.Point(6, 473);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(62, 21);
             this.button2.TabIndex = 157;
             this.button2.Text = "HELP";
             this.button2.UseVisualStyleBackColor = true;
@@ -1470,7 +1470,7 @@
             this.Controls.Add(this.label9);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "MODBUS COMMUNICATION PROGRAM";
             this.Shown += new System.EventHandler(this.Form1_Shown);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
