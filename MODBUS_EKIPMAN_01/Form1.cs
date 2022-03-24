@@ -969,6 +969,7 @@ namespace MODBUS_EKIPMAN_01
                 mtbihvar13 = Convert.ToInt32(var01);
 
             }
+            test
         }
     }
 }
