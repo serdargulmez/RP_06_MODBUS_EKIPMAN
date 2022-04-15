@@ -969,7 +969,11 @@ namespace MODBUS_EKIPMAN_01
                 mtbihvar13 = Convert.ToInt32(var01);
 
             }
-            test
+         private void TxtTest_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
         }
     }
 }
