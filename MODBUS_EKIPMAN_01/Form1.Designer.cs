@@ -149,6 +149,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.TxtTest = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -1453,11 +1454,20 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // TxtTest
+            // 
+            this.TxtTest.Location = new System.Drawing.Point(486, 450);
+            this.TxtTest.Name = "TxtTest";
+            this.TxtTest.Size = new System.Drawing.Size(100, 20);
+            this.TxtTest.TabIndex = 158;
+            this.TxtTest.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtTest_KeyPress);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(810, 497);
+            this.Controls.Add(this.TxtTest);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label5);
@@ -1605,6 +1615,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.TextBox TxtTest;
     }
 }
 

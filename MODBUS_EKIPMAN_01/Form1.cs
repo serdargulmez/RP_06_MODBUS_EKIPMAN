@@ -443,6 +443,8 @@ namespace MODBUS_EKIPMAN_01
             frm.Show();
         }
 
+ 
+
         private void mtb_05_TextChanged(object sender, EventArgs e)
         {
             string var01 = mtb_05.Text;
@@ -969,11 +971,13 @@ namespace MODBUS_EKIPMAN_01
                 mtbihvar13 = Convert.ToInt32(var01);
 
             }
-         private void TxtTest_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+
+
         }
 
+        private void TxtTest_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
         }
     }
 }
